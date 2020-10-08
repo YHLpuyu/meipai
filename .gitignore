@@ -1,0 +1,16 @@
+meipai.spec
+.vscode/launch.json
+.vscode/settings.json
+__pycache__/meipai.cpython-38.pyc
+build/meipai/Analysis-00.toc
+build/meipai/base_library.zip
+build/meipai/EXE-00.toc
+build/meipai/meipai.exe.manifest
+build/meipai/PKG-00.pkg
+build/meipai/PKG-00.toc
+build/meipai/PYZ-00.pyz
+build/meipai/PYZ-00.toc
+build/meipai/Tree-00.toc
+build/meipai/Tree-01.toc
+build/meipai/warn-meipai.txt
+build/meipai/xref-meipai.html
